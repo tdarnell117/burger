@@ -1,1 +1,2 @@
 # burger
+Unfortunately I am still missing a lot of information how to put this whole thing togther with the databases. I tried as best as I could and had to see if some code from the solved file would work. But I am just not there yet to bring all the parts together. I know how to set up the database and server and get the pages started but making the functionality work to display from the database and I am still unsure what an orm really is. I will keep working hard to understand this material
